@@ -1,0 +1,13 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/AEROassault/DeepSpaceTrading/master/ScanThoseGates.version",
+	"modName":"Deep Space Trading",
+	#"modThreadId":24651,
+	"modVersion":
+	{
+		"major":0,
+		"minor":1,
+		"patch":0,
+	},
+	"starsectorVersion":"0.96a-RC10",
+	"directDownloadURL":"https://github.com/AEROassault/DeepSpaceTrading/releases/latest/download/DeepSpaceTrading.zip",
+}

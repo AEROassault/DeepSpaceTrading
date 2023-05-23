@@ -1,0 +1,10 @@
+{
+	"id":"deep_space_trading",
+	"name":"Deep Space Trading",
+	"author":"AERO",
+	"version":"0.1.0",
+	"description":"Removes tariffs from hidden markets.",
+	"gameVersion":"0.96a-RC10",
+	"jars":["jars/DeepSpaceTrading.jar"],
+	"modPlugin":"deepspacetrading.DeepSpaceModPlugin",
+}
