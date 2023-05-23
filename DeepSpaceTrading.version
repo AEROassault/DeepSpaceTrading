@@ -1,7 +1,7 @@
 {
-	"masterVersionFile":"https://raw.githubusercontent.com/AEROassault/DeepSpaceTrading/master/ScanThoseGates.version",
+	"masterVersionFile":"https://raw.githubusercontent.com/AEROassault/DeepSpaceTrading/master/DeepSpaceTrading.version",
 	"modName":"Deep Space Trading",
-	#"modThreadId":24651,
+	"modThreadId":,
 	"modVersion":
 	{
 		"major":0,
