@@ -20,7 +20,7 @@ public class DeepSpaceTariffUtil extends BaseCampaignEventListener {
     @Override
     public void reportPlayerOpenedMarket(MarketAPI market) {
         if (market.isHidden()) {
-            market.getTariff().modifyMult(DeepSpaceModPlugin.ID,0f);
+            market.getTariff().modifyMult(DeepSpaceModPlugin.ID, 0f);
             log.info("Modified hidden market tariff.");
         }
     }

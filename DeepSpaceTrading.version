@@ -1,7 +1,7 @@
 {
 	"masterVersionFile":"https://raw.githubusercontent.com/AEROassault/DeepSpaceTrading/master/DeepSpaceTrading.version",
 	"modName":"Deep Space Trading",
-	"modThreadId":,
+	#"modThreadId":temp empty,
 	"modVersion":
 	{
 		"major":0,
