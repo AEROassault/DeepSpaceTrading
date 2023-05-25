@@ -1,0 +1,3 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+deepspace_EnableTariffModifier,Enable Tariff Modifier,Boolean,True,,Enables or disables the ability to modify tariffs on hidden markets.,,,
+deepspace_TariffMultiplier,Tariff Multiplier,Int,0,,Multiplier for the value of the tariff hidden markets charge.,0,50,
