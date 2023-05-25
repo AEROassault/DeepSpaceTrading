@@ -1,6 +1,5 @@
 package deepspacetrading;
 
-import deepspacetrading.DeepSpaceModPlugin;
 import lunalib.lunaSettings.LunaSettings;
 import lunalib.lunaSettings.LunaSettingsListener;
 
